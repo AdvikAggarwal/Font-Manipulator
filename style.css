@@ -1,0 +1,40 @@
+body
+{
+    background-color: rgb(0, 255, 149);  
+}
+.note
+{
+    font-size: 20px;
+}
+#footer
+{
+    bottom: 0;
+    width: 100%;
+    font-size: 40px;
+    margin: 0;
+    background-color: antiquewhite;
+    position: fixed;
+}
+canvas
+{
+    border: 3px black ridge;
+}
+#heading
+{
+    width: 100%;
+    margin: 0px;
+
+}
+#main_heading
+{
+    font-size: 30px;
+}
+.textholder_text
+{
+    font-size: 50px;
+}
+.textholder
+{
+    width: 900px;
+    font-size: 50px;
+}
